@@ -1,0 +1,7 @@
+{
+    "providers": [
+        {"type": "bitmap", "file": "minecraft:guis/pixel.png","ascent": -2000,"height": -3,"chars": ["七"]},
+        {"type": "bitmap", "file": "minecraft:guis/inv_see.png","ascent": 13,"height": 108,"chars": ["⥅"]},
+        {"type": "bitmap", "file": "minecraft:guis/crate_inv.png","ascent": 13,"height": 71,"chars": ["↬"]}
+    ]
+}
